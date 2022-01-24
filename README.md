@@ -10,18 +10,14 @@ Creating an RC car that will be able to drive it self enabled via computer visio
 
  
 
- ### Step2: Assemble Parts
+ ### Step2: Assemble parts and program rasberry Pi
  
- Soldered Electrical components together to improve robustness of device.
+ Soldered Electrical components together to improve robustness of device.Programmed and assembled car to log data as it is driven via Bluetooth using in-house raspberry pi.
  
  <img src="https://github.com/AbdulRahmanSilmy/Autonomous-RC-car/blob/main/images/car_pic1.jpg" width="500" height="400" />
  
- ### Step3: Program rasberry Pi
+ ### Step3: Develop self-driving model (coming soon)
  
- Programmed and assembled car to log data as it is driven via Bluetooth using in-house raspberry pi.
- 
- """ Insert video of it being driven here """
- 
- ### Step4: Develop self-driving model
+ In progress at the moment. You can come back later to see if any progress has been made. 
  
  
